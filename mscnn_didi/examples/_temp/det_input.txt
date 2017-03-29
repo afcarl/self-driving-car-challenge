@@ -1,0 +1,1 @@
+/home/magic/self_driving_car/mscnn/examples/images/fish-bike.jpg
